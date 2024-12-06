@@ -1,0 +1,8 @@
+{
+    "id_name": "network",
+    "version": 1,
+    "author": "tom",
+    "name": "Network tools",
+    "description": "",
+    "dependencies": []
+}
